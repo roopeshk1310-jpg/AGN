@@ -12,6 +12,7 @@ SDSS MPA-JHU Value Added Catalog (DR8)
 - galSpecInfo — redshift and targettype information
 - galSpecExtra — stellar masses, SFRs, BPT classifications  
 - galSpecLine — emission line flux values
+
 Data available at: https://www.sdss4.org/dr17/spectro/galaxy_mpajhu/
 
 ## Sample
