@@ -1,4 +1,4 @@
-# AGN Host Galaxy Properties in the Local Universe (0.02 <= Z <= 0.2)
+# AGN Host Galaxy Properties in the Local Universe
 
 ## Project Overview
 This project investigates the host galaxy properties of Active Galactic Nuclei 
